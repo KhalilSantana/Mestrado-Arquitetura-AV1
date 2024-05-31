@@ -1,0 +1,21 @@
+$ ./Khalil_Santana_00.bin 15 10
+Input integers: (15,10)
+Output: 5
+$ ./Khalil_Santana_00.bin 24 18
+Input integers: (24,18)
+Output: 6
+$ ./Khalil_Santana_00.bin 101 10
+Input integers: (101,10)
+Output: 1
+$ ./Khalil_Santana_00.bin 48 180
+Input integers: (48,180)
+Output: 12
+$ ./Khalil_Santana_00.bin 42 56
+Input integers: (42,56)
+Output: 14
+$ ./Khalil_Santana_00.bin 270 192
+Input integers: (270,192)
+Output: 6
+$ ./Khalil_Santana_00.bin 17 17
+Input integers: (17,17)
+Output: 17
